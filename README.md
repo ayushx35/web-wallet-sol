@@ -27,4 +27,4 @@ A premium Solana wallet dashboard built with React and Vite. Experience a high-e
 1.  **Install Dependencies**: `npm install`
 2.  **Run Development Server**: `npm run dev`
 3.  **Build for Production**: `npm run build`
-# web-wallet-sol
+
