@@ -4,8 +4,11 @@ A premium Solana wallet dashboard built with React and Vite. Experience a high-e
 
 ## 📺 Demo
 
-![Project Demo](https://raw.githubusercontent.com/ayushx35/web-wallet-sol/main/public/demo.gif)
-*Replace this placeholder with your actual demo video or GIF link.*
+https://github.com/user-attachments/assets/f99ef9f9-ec56-4b58-b5e4-380fa2115601
+
+
+
+
 
 ## Features
 
