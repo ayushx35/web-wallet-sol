@@ -1,8 +1,13 @@
-# Solana Wallet Dashboard
+# web-wallet-sol
 
-A modern, high-performance web application for interacting with the Solana blockchain. This project provides a seamless interface for managing Solana assets, tracking balances in real-time, and performing secure SOL transfers.
+A premium Solana wallet dashboard built with React and Vite. Experience a high-end Web3 interface with real-time balance tracking and secure transaction management.
 
-## Key Features
+## 📺 Demo
+
+![Project Demo](https://raw.githubusercontent.com/ayushx35/web-wallet-sol/main/public/demo.gif)
+*Replace this placeholder with your actual demo video or GIF link.*
+
+## Features
 
 *   **Premium UI Design**: A glassmorphic, dark-themed interface built using modern CSS principles and the Inter typeface for a high-end Web3 experience.
 *   **Real-Time Synchronization**: Automatic UI updates for account balances utilizing Solana's onAccountChange WebSocket listeners for zero-latency state management.
